@@ -1,4 +1,4 @@
-# VFX Project II : Image Stitching
+# VFX Project 2 - Image Stitching
 
 ## 0. Team Members
 
